@@ -7,6 +7,8 @@
 
 # testing
 /coverage
+/src/x-trash-src
+/public/x-trash-public
 
 # production
 /build

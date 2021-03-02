@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+npx create-react-app miy-nlw-04-react --template typescript
+
+npm start
+
+1. Faça um storie ou post com uma foto do seu setup utilizando o wallpaper (disponível na plataforma de conteúdo), utilize a hashtag #juntosparaoproximonivel e marque o nosso perfil @rocketseat_oficial
+2. Curta e comente sobre o que representa o seu próximo nível nesse post: https://www.instagram.com/p/CLmFu38hFF8/?igshid=3u68gfyb39cy
+2. Responda esse formulário até as 23h00 de hoje (horário de Brasília), valendo 02 kits exclusivos do NLW
+
+#rumoaoproximonivel
+
 ## Available Scripts
 
 In the project directory, you can run:
